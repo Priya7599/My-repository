@@ -1,0 +1,19 @@
+h1
+{
+    text-align: center;
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    color: blue;
+}
+button
+{
+    margin: auto;
+    border: none;
+    background-color: brown;
+    color: white;
+}
+button:hover
+{
+    border: 1px solid brown;
+    background-color: white;
+    color: brown
+}
